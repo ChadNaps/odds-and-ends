@@ -8,7 +8,7 @@ let selection = "";
 let isValidSelection = false;
 let saveData = {
 	exists: false,
-	player: { Name: "" },
+	player: { name: "" },
 	character: {
 		name: "",
 		class: "",
