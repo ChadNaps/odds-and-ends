@@ -1,0 +1,11 @@
+syntax on
+set number
+set smartcase
+set showcmd
+set hlsearch
+set incsearch
+set ignorecase
+set wildmenu
+set wildmode=list:longest
+colorscheme koehler
+set noswapfile
