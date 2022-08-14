@@ -14,9 +14,10 @@ let saveData = {
 		class: "",
 		level: 1,
 		exp: 0,
+		expToLevel: 50,
 		inventory: [],
 		statusAilments: {
-			poison: false,
+			poisoned: false,
 			blind: false,
 			fatigued: false,
 			unconscious: false,
