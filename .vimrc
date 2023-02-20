@@ -9,3 +9,4 @@ set wildmenu
 set wildmode=list:longest
 colorscheme koehler
 set noswapfile
+set laststatus=2
